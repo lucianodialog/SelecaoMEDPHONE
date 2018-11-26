@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "793344729349",
+    "firebase_url": "https://selecaomedphone-ea44f.firebaseio.com",
+    "project_id": "selecaomedphone-ea44f",
+    "storage_bucket": "selecaomedphone-ea44f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:793344729349:android:ecadde964dd12f6f",
+        "android_client_info": {
+          "package_name": "criawebmobile.com.br.selecaomedphonee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "793344729349-3ssu6p6gnrh4hc48ldsattqd36hh316u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "criawebmobile.com.br.selecaomedphonee",
+            "certificate_hash": "52b63b5de39275bbbf16d5f65382b56c0fca70b5"
+          }
+        },
+        {
+          "client_id": "793344729349-86gnccsi2rohb6ivkfknmhahqpvbeq60.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBdWSP63BVWfq3iiE59qD738TCf8oXNhg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "793344729349-86gnccsi2rohb6ivkfknmhahqpvbeq60.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

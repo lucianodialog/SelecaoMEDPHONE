@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SelecaoMEDPHONE</string>
+    <string name="btn_carregar">Carregar Dados</string>
+    <string name="txtDados">Progress Dados</string>
+</resources>
